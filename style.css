@@ -103,11 +103,7 @@ nav .fa
 {
     .header
     {
-        width: 100% ;
-        position: relative;
-        height: 0%;
-        max-height: 0%;
-        max-height: 50%;
+       background-position: center;
         background-size: cover;
     }
     .text-box h1{
